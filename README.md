@@ -54,7 +54,7 @@ function fin {
 complete -o default -F _fin fin
 ```
 
-#Example Useage:
+#Example Usage:
 
 ```
 dope:~ todo
